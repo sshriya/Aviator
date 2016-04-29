@@ -1,0 +1,8 @@
+prefix=/home/shriya/Aviator/install
+
+Name: gBot
+Description: Description of gBot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/shriya/Aviator/install/lib 
+Requires: 

@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "aBot")
+set(aBot_MAINTAINER "shriya <shriya@todo.todo>")
+set(aBot_DEPRECATED "")
+set(aBot_VERSION "0.0.0")
+set(aBot_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(aBot_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(aBot_BUILDTOOL_DEPENDS "catkin")

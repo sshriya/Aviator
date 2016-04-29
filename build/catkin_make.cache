@@ -1,0 +1,2 @@
+aBot:gBot
+-DCATKIN_DEVEL_PREFIX=/home/shriya/Aviator/devel -DCMAKE_INSTALL_PREFIX=/home/shriya/Aviator/install -G Unix Makefiles
